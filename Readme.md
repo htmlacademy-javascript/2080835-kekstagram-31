@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Егор Киселев](https://up.htmlacademy.ru/javascript/31/user/2080835).
-* Наставник: `Неизвестно`.
+* Александр Сударев https://htmlacademy.ru/profile/id1152185.
 
 ---
 
