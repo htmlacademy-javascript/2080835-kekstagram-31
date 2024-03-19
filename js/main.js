@@ -1,1 +1,1 @@
-import './gallery.js';
+import '/gallery.js';
